@@ -112,7 +112,7 @@
       "MD5": "ed85b777ff646eb4a16202ba98df6240",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LogentriesNLog.dll"
     },
-	"Dependencies\\Microsoft.WindowsAzure.Configuration.dll": {
+    "Dependencies\\Microsoft.WindowsAzure.Configuration.dll": {
       "MD5": "7dda2559e91d55da6f4192f03e2b12dc",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Microsoft.WindowsAzure.Configuration.dll"
     },
@@ -196,7 +196,7 @@
     }
   },
   "Loader": {
-    "MD5": "bf2b3a78c03cb3a98975c729a6898dec",
+    "MD5": "988223f14a5c1cc253ab9017453da1db",
     "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
   }
 }
