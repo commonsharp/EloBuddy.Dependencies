@@ -78,4 +78,5 @@ UpdateStatusSystemFiles="Mise à jour des fichiers système"
 LabelForgotPassword="Mot de passe oublié?" 
 LabelCreateAccount ="Créer un compte" 
 LabelRemember ="Se souvenir de moi" 
+LabelDisableRangeIndicator ="Désactiver l'indicateur de portée" 
 xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
