@@ -197,11 +197,11 @@
   "cba60307deaf53d3c613944dcf00e831": {
     "Files": {
      "System\\EloBuddy.Core.dll": {
-        "MD5": "dda9fa16d1837ed6074b5c57db14bc88",
+        "MD5": "a94e178488bfa966ea0b8548fb1e8c5b",
         "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/PBE-6.8.140.332/EloBuddy.Core.dll"
      },
      "System\\EloBuddy.dll": {
-        "MD5": "bca655b78fc4a5b71a5df7ebc05339cc",
+        "MD5": "56ae35eaa5c2713a39ec446ec24d7f8c",
         "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/PBE-6.8.140.332/EloBuddy.dll"
      }
     }
